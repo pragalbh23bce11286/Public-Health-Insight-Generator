@@ -1,4 +1,3 @@
-# Public-Health-Insight-Generator
 # Public Health Insight Generation using LLMs
 
 This project uses a large language model (LLM) to generate concise, actionable insights from structured hospital summary data. It is designed to support healthcare administrators and public health officials in identifying trends, resource gaps, and potential health risks using natural language generation.
